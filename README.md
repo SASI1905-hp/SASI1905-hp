@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm SASI1905-hp
 
-<!--
-**SASI1905-hp/SASI1905-hp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software projects in Python and C, ranging from applied healthcare tools to hackathon entries and lab exercises. My focus is on working, functional solutions rather than just theory.
 
-Here are some ideas to get you started:
+### Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Internship_Project](https://github.com/SASI1905-hp/Internship_Project)** — Python-based system for intelligent diabetes diagnosis and insulin dose recommendation.
+- **[OdooxGCEThyderabadHackathon](https://github.com/SASI1905-hp/OdooxGCEThyderabadHackathon)** — Official entry repository for the Odoo x GCET Hyderabad Hackathon 2026.
+- **[C-Repo](https://github.com/SASI1905-hp/C-Repo)** — Collection of C programs covering core programming fundamentals.
+- **[Mern_Programs](https://github.com/SASI1905-hp/Mern_Programs)** — Weekly lab exercises and practice programs.
+
+### Tech stack
+
+Python · C
+
+### Get in touch
+
+Feel free to check out my repositories above or reach out if you'd like to collaborate.
