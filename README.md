@@ -1,4 +1,4 @@
-## Hi, I'm SASI1905-hp
+## Hi, I'm SASI MEGHANA
 
 I build practical software projects in Python and C, ranging from applied healthcare tools to hackathon entries and lab exercises. My focus is on working, functional solutions rather than just theory.
 
